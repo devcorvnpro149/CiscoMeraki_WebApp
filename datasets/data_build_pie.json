@@ -1,0 +1,336 @@
+[
+    {
+        "id": "L_646829496481105433",
+        "organizationId": "549236",
+        "name": "DevNet Sandbox",
+        "area": "Asia",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "health": "85%",
+        "state": "up",
+        "num_dv": "12",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DevNet-Sandbox-A/n/EFZ1Davc/manage/usage/list",
+        "notes": ""
+    },
+    {
+        "id": "L_646829496481109404",
+        "organizationId": "549236",
+        "name": "TheTechclinic",
+        "area": "Europe",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "health": "70%",
+        "state": "down",
+        "num_dv": "9",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/TheTechclinic-ap/n/-CYBScvc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109548",
+        "organizationId": "549236",
+        "name": "DNSMB3",
+        "area": "Africa",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "health": "95%",
+        "state": "up",
+        "num_dv": "15",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNSMB3-jxxxxxxat/n/XgKM5avc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109720",
+        "organizationId": "549236",
+        "name": "DNENT3",
+        "area": "Europe",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "health": "95%",
+        "state": "up",
+        "num_dv": "6",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNENT3-sxxx0gmai/n/WYWR8cvc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109802",
+        "organizationId": "549236",
+        "name": "DNSMB5",
+        "area": "Europe",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "health": "95%",
+        "state": "up",
+        "num_dv": "6",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNSMB5-appliance/n/U0eEYcvc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109804",
+        "organizationId": "549236",
+        "name": "DNSMB4",
+        "area": "Asia",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "health": "95%",
+        "state": "up",
+        "num_dv": "12",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNSMB4-appliance/n/Pi2jBdvc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109805",
+        "organizationId": "549236",
+        "name": "DNSMB2",
+        "area": "America",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "health": "65%",
+        "state": "down",
+        "num_dv": "3",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNSMB2-appliance/n/HJdjTdvc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109806",
+        "organizationId": "549236",
+        "name": "DNENT1",
+        "area": "America",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "health": "100%",
+        "state": "up",
+        "num_dv": "12",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNENT1-appliance/n/tJW23avc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109810",
+        "organizationId": "549236",
+        "name": "DNSMB1",
+        "area": "America",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "health": "15%",
+        "state": "not-defined",
+        "num_dv": "10",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNSMB1-appliance/n/mbFfwavc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_566327653141843049",
+        "organizationId": "681155",
+        "name": "Lyoli",
+        "area": "America",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "health": "25%",
+        "state": "not-defined",
+        "num_dv": "10",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/Lyoli-switch/n/kjwRabg/manage/usage/list",
+        "notes": ""
+    },
+    {
+        "id": "L_566327653141846927",
+        "organizationId": "681155",
+        "name": "Vegas Apartment",
+        "area": "Australia",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "health": "15%",
+        "state": "not-defined",
+        "num_dv": "10",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/Vegas-Apartment-/n/YreSWdg/manage/usage/list",
+        "notes": ""
+    },
+    {
+        "id": "L_566327653141856854",
+        "organizationId": "681155",
+        "name": "DNEAlertsNet",
+        "area": "Asia",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "health": "35%",
+        "state": "unknown",
+        "num_dv": "6",
+        "tags": [
+            "tag1",
+            "tag2"
+        ],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/DNEAlertsNet-swi/n/vUktkag/manage/usage/list",
+        "notes": ""
+    },
+    {
+        "id": "L_783626335162466320",
+        "organizationId": "681155",
+        "name": "DevNetLab",
+        "area": "America",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "health": "65%",
+        "state": "up",
+        "num_dv": "4",
+        "tags": [
+            "tag1"
+        ],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/DevNetLab-applia/n/xaNlkcig/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_783626335162466514",
+        "organizationId": "681155",
+        "name": "DevNetLab2",
+        "area": "America",
+        "productTypes": [
+            "appliance",
+            "cellularGateway",
+            "environmental",
+            "sensor",
+            "switch",
+            "wireless"
+        ],
+        "health": "35%",
+        "state": "down",
+        "num_dv": "7",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/DevNetLab2-switc/n/selmycig/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_783626335162466515",
+        "organizationId": "681155",
+        "name": "DevNetLab3",
+        "area": "Asia",
+        "productTypes": [
+            "appliance",
+            "cellularGateway",
+            "environmental",
+            "sensor",
+            "switch",
+            "wireless"
+        ],
+        "health": "100%",
+        "state": "up",
+        "num_dv": "12",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/DevNetLab3-wirel/n/e5u4ibig/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "N_566327653141899127",
+        "organizationId": "681155",
+        "name": "Nolan",
+        "area": "Australia",
+        "productTypes": [
+            "wireless"
+        ],
+        "health": "70%",
+        "state": "unknown",
+        "num_dv": "5",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/Nolan/n/9qi_yag/manage/usage/list",
+        "notes": ""
+    },
+    {
+        "id": "N_566327653141902646",
+        "organizationId": "681155",
+        "name": "Lyoli MDM",
+        "area": "America",
+        "productTypes": [
+            "systemsManager"
+        ],
+        "health": "15%",
+        "state": "not-defined",
+        "num_dv": "3",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/Lyoli-MDM/n/-JaAJcg/manage/usage/list",
+        "notes": null
+    }
+]
+

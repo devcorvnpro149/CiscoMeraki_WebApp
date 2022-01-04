@@ -1,0 +1,16 @@
+organizationId,name,productTypes,latitude,longitude,timeZone,num_devices
+865776,Long Island Office,"['appliance', 'camera', 'switch']",-35.675147,-71.542969,"GMT-3, Chile",6
+865776,My network,['wireless'],35.86166,104.195397,"GMT+8, China",2
+865776,Kristop Company,['wireless'],56.26392,9.501785,"GMT+1, Denmark",4
+865776,Kamsanhamita,['wireless'],35.907757,127.766922,"GMT+9, Korea",9
+865776,Blank,['wireless'],-9.189967,-75.015152,"GMT-5, Peru",7
+463308,Cisco Live Network,"['appliance', 'camera', 'switch', 'wireless']",61.52401,105.318756,"GMT+3, Russia",15
+463308,Nam Khanh Network,"['appliance', 'switch', 'wireless']",14.058324,108.277199,"GMT+7, VietNam",20
+463308,OTG Test Network,"['appliance', 'camera', 'switch']",23.634501,-102.552784,"GMT-7, Mexico",15
+463308,EMM Test,['systemsManager'],39.074208,21.824312,"GMT+2, Greece",3
+463308,OTG Test Network,['appliance'],21.521757,-77.781167,"GMT-5, Cuba",11
+865776,Werkci Social,"['appliance', 'camera', 'switch']",-25.274398,133.775136,"GMT+11, Australia",5
+865776,Oulasdi,['wireless'],56.130366,-106.346771,"GMT-3:30, Canada",14
+865776,Toilasf network,['wireless'],46.227638,2.213749,"GMT+1, France",7
+865776,Cialouas,['wireless'],-23.442503,-58.443832,"GMT-3, Paraguay",2
+865776,Qaoisit,['wireless'],50.503887,4.469936,"GMT+1, Belgium",4

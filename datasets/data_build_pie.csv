@@ -1,0 +1,18 @@
+OG_id,Name,Area,Health,State,Num Devices
+549236,DevNet Sandbox,Asia,85%,up,12
+549236,TheTechclinic,Europe,70%,down,9
+549236,DNSMB3,Africa,95%,up,15
+549236,DNENT3,Europe,95%,up,6
+549236,DNSMB5,Europe,95%,up,6
+549236,DNSMB4,Asia,95%,up,12
+549236,DNSMB2,America,65%,down,3
+549236,DNENT1,America,100%,up,12
+549236,DNSMB1,America,15%,not-defined,10
+681155,Lyoli,America,25%,not-defined,10
+681155,Vegas Apartment,Australia,15%,not-defined,10
+681155,DNEAlertsNet,Asia,35%,unknown,6
+681155,DevNetLab,America,65%,up,4
+681155,DevNetLab2,America,35%,down,7
+681155,DevNetLab3,Asia,100%,up,12
+681155,Nolan,Australia,70%,unknown,5
+681155,Lyoli MDM,America,15%,not-defined,3

@@ -1,0 +1,265 @@
+[
+    {
+        "id": "L_575334852396597361",
+        "organizationId": "865776",
+        "name": "Long Island Office",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch"
+        ],
+        "timeZone": "GMT-3, Chile",
+	    "latitude": -35.675147,
+	    "longitude": -71.542969,
+	    "num_devices": 6,
+        "tags": [
+            "tag3",
+            "tag4"
+        ],
+        "enrollmentString": null,
+        "url": "https://n22.meraki.com/Long-Island-Offi/n/tTgYXcw/manage/usage/list",
+        "notes": "Combined network for Long Island Office"
+    },
+    {
+        "id": "N_575334852396609596",
+        "organizationId": "865776",
+        "name": "My network",
+        "productTypes": [
+            "wireless"
+        ],
+        "timeZone": "GMT+8, China",
+	    "latitude": 35.86166,
+	    "longitude": 104.195397,
+	    "num_devices": 2,
+        "tags": [
+            "tag1",
+            "tag2"
+        ],
+        "enrollmentString": null,
+        "url": "https://n22.meraki.com/My-network/n/5hOaLcw/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "N_575334852396646552",
+        "organizationId": "865776",
+        "name": "Kristop Company",
+        "productTypes": [
+            "wireless"
+        ],
+        "timeZone": "GMT+1, Denmark",
+	    "latitude": 56.26392,
+	    "longitude": 9.501785,
+	    "num_devices": 4,
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n22.meraki.com/Long-Island-Offi/n/z4WjWbw/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "N_575334852396646553",
+        "organizationId": "865776",
+        "name": "Kamsanhamita",
+        "productTypes": [
+            "wireless"
+        ],
+        "timeZone": "GMT+9, Korea",
+	    "latitude": 35.907757,
+	    "longitude": 127.766922,
+	    "num_devices": 9,
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n22.meraki.com/Test/n/AMCtLcw/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "N_575334852396646885",
+        "organizationId": "865776",
+        "name": "Blank",
+        "productTypes": [
+            "wireless"
+        ],
+        "timeZone": "GMT-5, Peru",
+	    "latitude": -9.189967,
+	    "longitude": -75.015152,
+	    "num_devices": 7,
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n22.meraki.com/Blank/n/wQrzzbw/manage/usage/list",
+        "notes": "Brooklyn"
+    },
+    {
+        "id": "L_573083052582899526",
+        "organizationId": "463308",
+        "name": "Cisco Live Network",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "GMT+3, Russia",
+	    "latitude": 61.52401,
+	    "longitude": 105.318756,
+	    "num_devices": 15,
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n18.meraki.com/Cisco-Live-Netwo/n/m81iubs/manage/usage/list",
+        "notes": ""
+    },
+    {
+        "id": "L_573083052582908089",
+        "organizationId": "463308",
+        "name": "Nam Khanh Network",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "GMT+7, VietNam",
+	    "latitude": 14.058324,
+	    "longitude": 108.277199,
+	    "num_devices": 20,
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n18.meraki.com/San-Jose-Lab-wir/n/mGz_Eds/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_573083052582981640",
+        "organizationId": "463308",
+        "name": "OTG Test Network",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch"
+        ],
+        "timeZone": "GMT-7, Mexico",
+	    "latitude": 23.634501,
+	    "longitude": -102.552784,
+	    "num_devices": 15,
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n18.meraki.com/OTG-Test-Network/n/Cf_Llbs/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "N_573083052582971004",
+        "organizationId": "463308",
+        "name": "EMM Test",
+        "productTypes": [
+            "systemsManager"
+        ],
+        "timeZone": "GMT+2, Greece",
+	    "latitude": 39.074208,
+	    "longitude": 21.824312,
+	    "num_devices": 3,
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n18.meraki.com/EMM-Test/n/YDSAfds/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "N_573083052583209321",
+        "organizationId": "463308",
+        "name": "OTG Test Network",
+        "productTypes": [
+            "appliance"
+        ],
+        "timeZone": "GMT-5, Cuba",
+	    "latitude": 21.521757,
+	    "longitude": -77.781167,
+	    "num_devices": 11,
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n18.meraki.com/OTG-Test-Network/n/kUQ0Cbs/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_575334852396597361",
+        "organizationId": "865776",
+        "name": "Werkci Social",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch"
+        ],
+        "timeZone": "GMT+11, Australia",
+	    "latitude": -25.274398,
+	    "longitude": 133.775136,
+	    "num_devices": 5,
+        "tags": [
+            "tag3",
+            "tag4"
+        ],
+        "enrollmentString": null,
+        "url": "https://n22.meraki.com/Long-Island-Offi/n/tTgYXcw/manage/usage/list",
+        "notes": "Combined network for Long Island Office"
+    },
+    {
+        "id": "N_575334852396609596",
+        "organizationId": "865776",
+        "name": "Oulasdi",
+        "productTypes": [
+            "wireless"
+        ],
+        "timeZone": "GMT-3:30, Canada",
+	    "latitude": 56.130366,
+	    "longitude": -106.346771,
+	    "num_devices": 14,
+        "tags": [
+            "tag1",
+            "tag2"
+        ],
+        "enrollmentString": null,
+        "url": "https://n22.meraki.com/My-network/n/5hOaLcw/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "N_575334852396646552",
+        "organizationId": "865776",
+        "name": "Toilasf network",
+        "productTypes": [
+            "wireless"
+        ],
+        "timeZone": "GMT+1, France",
+	    "latitude": 46.227638,
+	    "longitude": 2.213749,
+	    "num_devices": 7,
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n22.meraki.com/Long-Island-Offi/n/z4WjWbw/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "N_575334852396646553",
+        "organizationId": "865776",
+        "name": "Cialouas",
+        "productTypes": [
+            "wireless"
+        ],
+        "timeZone": "GMT-3, Paraguay",
+	    "latitude": -23.442503,
+	    "longitude": -58.443832,
+	    "num_devices": 2,
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n22.meraki.com/Test/n/AMCtLcw/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "N_575334852396646885",
+        "organizationId": "865776",
+        "name": "Qaoisit",
+        "productTypes": [
+            "wireless"
+        ],
+        "timeZone": "GMT+1, Belgium",
+	    "latitude": 50.503887,
+	    "longitude": 4.469936,
+	    "num_devices": 4,
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n22.meraki.com/Blank/n/wQrzzbw/manage/usage/list",
+        "notes": "Brooklyn"
+    }
+]

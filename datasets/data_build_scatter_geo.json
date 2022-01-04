@@ -1,0 +1,302 @@
+[
+    {
+        "id": "L_646829496481105433",
+        "organizationId": "549236",
+        "name": "DevNet Sandbox",
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "GMT+1, Italy",
+        "location": "ITA",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DevNet-Sandbox-A/n/EFZ1Davc/manage/usage/list",
+        "notes": ""
+    },
+    {
+        "id": "L_646829496481109404",
+        "organizationId": "549236",
+        "name": "TheTechclinic",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "timeZone": "GMT, Portugal",
+        "location": "PRT",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/TheTechclinic-ap/n/-CYBScvc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109548",
+        "organizationId": "549236",
+        "name": "DNSMB3",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "timeZone": "GMT+1, Italy",
+        "location": "ITA",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNSMB3-jxxxxxxat/n/XgKM5avc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109720",
+        "organizationId": "549236",
+        "name": "DNENT3",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "timeZone": "GMT-3, Brazil",
+        "location": "BRA",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNENT3-sxxx0gmai/n/WYWR8cvc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109802",
+        "organizationId": "549236",
+        "name": "DNSMB5",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "timeZone": "GMT+8, China",
+        "location": "CHN",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNSMB5-appliance/n/U0eEYcvc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109804",
+        "organizationId": "549236",
+        "name": "DNSMB4",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "timeZone": "GMT+1, Denmark",
+        "location": "DNK",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNSMB4-appliance/n/Pi2jBdvc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109805",
+        "organizationId": "549236",
+        "name": "DNSMB2",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "timeZone": "GMT+2, Zambia",
+        "location": "ZMB",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNSMB2-appliance/n/HJdjTdvc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109806",
+        "organizationId": "549236",
+        "name": "DNENT1",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "timeZone": "GMT+7, Viet Nam",
+        "location": "VNM",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNENT1-appliance/n/tJW23avc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_646829496481109810",
+        "organizationId": "549236",
+        "name": "DNSMB1",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systemsManager",
+            "wireless"
+        ],
+        "timeZone": "GMT+6, Kazakhstan",
+        "location": "KAZ",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n149.meraki.com/DNSMB1-appliance/n/mbFfwavc/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_566327653141843049",
+        "organizationId": "681155",
+        "name": "Lyoli",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "GMT-3, Chile",
+        "location": "CHL",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/Lyoli-switch/n/kjwRabg/manage/usage/list",
+        "notes": ""
+    },
+    {
+        "id": "L_566327653141846927",
+        "organizationId": "681155",
+        "name": "Vegas Apartment",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "GMT-5, Cuba",
+        "location": "CUB",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/Vegas-Apartment-/n/YreSWdg/manage/usage/list",
+        "notes": ""
+    },
+    {
+        "id": "L_566327653141856854",
+        "organizationId": "681155",
+        "name": "DNEAlertsNet",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "GMT+7, Thailand",
+        "location": "THA",
+        "tags": [
+            "tag1",
+            "tag2"
+        ],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/DNEAlertsNet-swi/n/vUktkag/manage/usage/list",
+        "notes": ""
+    },
+    {
+        "id": "L_783626335162466320",
+        "organizationId": "681155",
+        "name": "DevNetLab",
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "GMT+2, Ukraine",
+        "location": "UKR",
+        "tags": [
+            "tag1"
+        ],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/DevNetLab-applia/n/xaNlkcig/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_783626335162466514",
+        "organizationId": "681155",
+        "name": "DevNetLab2",
+        "productTypes": [
+            "appliance",
+            "cellularGateway",
+            "environmental",
+            "sensor",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "GMT+7, Cambodia",
+        "location": "KHM",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/DevNetLab2-switc/n/selmycig/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "L_783626335162466515",
+        "organizationId": "681155",
+        "name": "DevNetLab3",
+        "productTypes": [
+            "appliance",
+            "cellularGateway",
+            "environmental",
+            "sensor",
+            "switch",
+            "wireless"
+        ],
+        "timeZone": "GMT+1, Poland",
+        "location": "POL",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/DevNetLab3-wirel/n/e5u4ibig/manage/usage/list",
+        "notes": null
+    },
+    {
+        "id": "N_566327653141899127",
+        "organizationId": "681155",
+        "name": "Nolan",
+        "productTypes": [
+            "wireless"
+        ],
+        "timeZone": "GMT+5:30, India",
+        "location": "IND",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/Nolan/n/9qi_yag/manage/usage/list",
+        "notes": ""
+    },
+    {
+        "id": "N_566327653141902646",
+        "organizationId": "681155",
+        "name": "Lyoli MDM",
+        "productTypes": [
+            "systemsManager"
+        ],
+        "timeZone": "GMT, Ireland",
+        "location": "IRL",
+        "tags": [],
+        "enrollmentString": null,
+        "url": "https://n392.meraki.com/Lyoli-MDM/n/-JaAJcg/manage/usage/list",
+        "notes": null
+    }
+]
+
